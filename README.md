@@ -8,16 +8,21 @@ Expressões matemáticas úteis para códigos desde métodos nativos como **Math
 
 <h2>O que temos até aqui🤔</h2>
 
-* Área do retângulo
-* Perímetro do retângulo
 * Área do círculo
-* Perímetro do círculo
-* Porcentagem
-* Seno
+* Área do retângulo
 * Cosseno
-* Tangente
 * Fatorial
 * Média Aritmética
+* Média ponderal
+* Perímetro do círculo
+* Perímetro do retângulo
+* Porcentagem
+* Potência
+* Raiz quadrada
+* Seno
+* Tangente
+
+
 
 ------
 
