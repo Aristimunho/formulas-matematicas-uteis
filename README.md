@@ -14,6 +14,7 @@ Expressões matemáticas úteis para códigos desde métodos nativos como **Math
 * Fatorial
 * Média Aritmética
 * Média ponderal
+* Número primo
 * Perímetro do círculo
 * Perímetro do retângulo
 * Porcentagem
